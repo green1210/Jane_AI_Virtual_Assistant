@@ -77,7 +77,7 @@ Jane_AI_Virtual_Assistant/
 
 ## 🚀 Getting Started
 
-### **1️⃣ Clone the Repository**
+### **Clone the Repository**
 ```bash
 # git clone 
 https://github.com/green1210/Jane_AI_Virtual_Assistant.git
