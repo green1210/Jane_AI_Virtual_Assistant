@@ -24,7 +24,7 @@ This project is built to be **clean, modular, scalable, and developer-friendly**
 **🌐 [Live Project on Vercel](https://jane-ai-virtual-assistant.vercel.app/)**  
 _Deployed with Vercel for global accessibility and blazing-fast performance._
 
---
+---
 
 ## 🔥 Features
 
