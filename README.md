@@ -55,3 +55,66 @@ This project is built to be **clean, modular, scalable, and developer-friendly**
 
 ## 📂 Project Structure
 
+```bash
+Jane_AI_Virtual_Assistant/
+│
+├── public/ # Static files
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── context/ # React Context (User context, AI state)
+│ ├── hooks/ # Custom hooks
+│ ├── assets/ # Icons, images
+│ ├── styles/ # Stylesheets
+│ ├── App.jsx # Root component
+│ └── main.jsx # Entry point
+│
+├── package.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
+```
+---
+
+## 🚀 Getting Started
+
+### **1️⃣ Clone the Repository**
+```bash
+# git clone 
+https://github.com/green1210/Jane_AI_Virtual_Assistant.git
+
+# Navigate to the project folder
+cd Jane_AI_Virtual_Assistant
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+```
+---
+
+## ☁️ Deployment Options
+
+Easily deploy this portfolio to the web using any of the platforms below:
+
+- 🔗 [Vercel](https://vercel.com/)
+- 🔗 [Netlify](https://www.netlify.com/)
+- 🔗 [GitHub Pages](https://pages.github.com/) *(requires setup)*
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — you're free to use, modify, and distribute it for both personal and commercial purposes.
+
+---
+
+<br />
+
+<p align="center">
+  Made with ❤️ by <strong>Nagamanikanta Nallaganchu</strong>
+</p>
+
+
+
